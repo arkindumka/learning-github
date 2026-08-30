@@ -2,7 +2,7 @@
 This is my first time using Github, and I want to practice setting everything up.
 
 This is the first time I've used Github, and I wanted to set up a practice repository so I can learn how to use this.
-Making the Github work:
+Making Github work:
 1) Install VS Code 
 2) Install C++ Extension for VS Code
 3) Install a C++ Compiler (MSYS2)
