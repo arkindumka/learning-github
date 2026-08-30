@@ -1,6 +1,7 @@
 # learning-github
 This is my first time using Github, and I want to practice setting everything up.
 
+<<<<<<< HEAD
 This is the first time I've used Github, and I wanted to set up a practice repository so I can learn how to use this.
 Making the Github work:
 1) Install VS Code 
@@ -13,3 +14,5 @@ Making the Github work:
 8) Connect my local data (aka local repository) to Github
 9) Add and commit local changes 
 10) Push local changes to Github reposititory to update it
+=======
+>>>>>>> b0db537198a01059cf7553c4e03ed18f57b6bfd6
